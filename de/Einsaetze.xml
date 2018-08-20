@@ -10,7 +10,7 @@
 	<string name="Strasse_0">Klosterweg 14</string>
 	<string name="Objekt_0">Bauernhof</string>
 	<string name="Bemerkung_0">Brennt LKW</string>	
-	<string name="Anrufer_0">brennt die Ladung von einem LKW</string>
+	<string name="Anrufer_0">rekan lasti palaa</string>
 	<string name="ErsteLG_0">32</string>
 	<string name="ErsterLZ_0">3</string>
 	<string name="Zusatz_0">trailer</string>
@@ -24,7 +24,7 @@
 	<string name="Strasse_1">Klosterweg 14</string>
 	<string name="Objekt_1">Bauernhof, Scheune</string>
 	<string name="Bemerkung_1">Unklare Rauchentwicklung</string>	
-	<string name="Anrufer_1">qualmt es hinter der Scheune am Bauernhof</string>
+	<string name="Anrufer_1">ladon takaa nousee savua</string>
 	<string name="ErsteLG_1">32</string>
 	<string name="ErsterLZ_1">3</string>
 	<string name="Zusatz_1">scheune</string>
@@ -38,7 +38,7 @@
 	<string name="Strasse_2">Klosterweg 14</string>
 	<string name="Objekt_2">Bauernhof, Scheune</string>
 	<string name="Bemerkung_2">vmtl. Dachstuhlbrand</string>	
-	<string name="Anrufer_2">schlagen Flammen aus dem Dachstuhl der Scheune am Bauernhof</string>
+	<string name="Anrufer_2">ladon katon läpi lyö lieskat</string>
 	<string name="ErsteLG_2">32</string>
 	<string name="ErsterLZ_2">3</string>
 	<string name="Zusatz_2">dachstuhl</string>
@@ -52,7 +52,7 @@
 	<string name="Strasse_3">Unter den Buchen</string>
 	<string name="Objekt_3">Baustelle</string>
 	<string name="Bemerkung_3">Brennt Bagger</string>	
-	<string name="Anrufer_3">brennt der Bagger, der an der kleinen Baustelle im Wald abgestellt ist</string>
+	<string name="Anrufer_3">kaivinkone palaa pienellä työmaalla metsässä</string>
 	<string name="ErsteLG_3">32</string>
 	<string name="ErsterLZ_3">3</string>
 	<string name="Zusatz_3">bagger</string>
@@ -66,7 +66,7 @@
 	<string name="Strasse_4">Unter den Buchen</string>
 	<string name="Objekt_4">Kuhweide</string>
 	<string name="Bemerkung_4">Zaun kokelt</string>	
-	<string name="Anrufer_4">kokelt ein Stück von dem Zaun der Kuhweide</string>
+	<string name="Anrufer_4">pala lehmäaitauksen aitaa</string>
 	<string name="ErsteLG_4">32</string>
 	<string name="ErsterLZ_4">3</string>
 	<string name="Zusatz_4">Zaun</string>
@@ -80,7 +80,7 @@
 	<string name="Strasse_5">Roermonder Bahn</string>
 	<string name="Objekt_5">Waldsee</string>
 	<string name="Bemerkung_5">Brennt Unterstand</string>	
-	<string name="Anrufer_5">ist hinter dem Wald am See eine starke Rauchentwicklung zu erkennen. Ich glaube die kommt von dem Unterstand neben dem See</string>
+	<string name="Anrufer_5">metsän takana olevalta lammelta nousee paljon savua. Luulen, että se tulee lammen viereiseltä laavulta.</string>
 	<string name="ErsteLG_5">32</string>
 	<string name="ErsterLZ_5">3</string>
 	<string name="Zusatz_5">unterstand</string>
@@ -94,7 +94,7 @@
 	<string name="Strasse_6">Klosterweg</string>
 	<string name="Objekt_6">auf der Straße</string>
 	<string name="Bemerkung_6">PKW-Brand</string>	
-	<string name="Anrufer_6">steht auf der Straße ein brennendes Auto</string>
+	<string name="Anrufer_6">kadulla on palava auto</string>
 	<string name="ErsteLG_6">32</string>
 	<string name="ErsterLZ_6">3</string>
 	<string name="Zusatz_6">Klosterweg</string>
@@ -108,7 +108,7 @@
 	<string name="Strasse_7">Philosophenweg</string>
 	<string name="Objekt_7">im Feld</string>
 	<string name="Bemerkung_7">Flächenbrand</string>	
-	<string name="Anrufer_7">brennt es auf dem Feld direkt an der Straße</string>
+	<string name="Anrufer_7">tien viereinen pelto palaa</string>
 	<string name="ErsteLG_7">32</string>
 	<string name="ErsterLZ_7">3</string>
 	<string name="Zusatz_7">Feld</string>
@@ -122,7 +122,7 @@
 	<string name="Strasse_8">Unter den Buchen</string>
 	<string name="Objekt_8"></string>
 	<string name="Bemerkung_8">Brennen Baumstämme</string>	
-	<string name="Anrufer_8">liegen so gestapelte Baumstämmte am Wegesrand. Fein säuberlich gestapelt. Das sind echt viele. Warum ich anrufe? Na die brennen doch alle</string>
+	<string name="Anrufer_8">tien vieressä on pinottuja tukkeja. Hienosti pinottuja. Niitä on paljon. Miksi soitan? No, ne kaikki palavat</string>
 	<string name="ErsteLG_8">32</string>
 	<string name="ErsterLZ_8">3</string>
 	<string name="Zusatz_8">Baumstaemme</string>
@@ -136,7 +136,7 @@
 	<string name="Strasse_9">Philosophenweg</string>
 	<string name="Objekt_9">im Feld</string>
 	<string name="Bemerkung_9">Brennt Strohmiete</string>	
-	<string name="Anrufer_9">sind an der Straße ganz viele Strohballen gestapelt. Ich glaube das heißt dann Strohmiete, oder? Wie auch immer.. Die brennen jedenfalls hier</string>
+	<string name="Anrufer_9">tien viereen on pinottu paljon heinäpaaleja. Jokatapauksessa, ne kaikki palavat</string>
 	<string name="ErsteLG_9">32</string>
 	<string name="ErsterLZ_9">3</string>
 	<string name="Zusatz_9">Strohmiete</string>
@@ -150,7 +150,7 @@
 	<string name="Strasse_10">Klosterweg 14</string>
 	<string name="Objekt_10">Bauernhof</string>
 	<string name="Bemerkung_10">Unklare Rauchentwicklung</string>	
-	<string name="Anrufer_10">kann ich im Bereich des Bauernhofes eine deutliche Rauchentwicklung erkennen. Wo die genau herkommt? Das kann ich Ihnen nicht sagen, ich bin ja mittlerweile mit meinem Auto schon in Arsbeck</string>
+	<string name="Anrufer_10">maatilan liepeiltä nousee paljon savua. En osaa sanoa tarkkaa paikkaa, koska olen jo Arsbeckissa autolla</string>
 	<string name="ErsteLG_10">32</string>
 	<string name="ErsterLZ_10">3</string>
 	<string name="Zusatz_10">Bauernhof</string>
@@ -164,7 +164,7 @@
 	<string name="Strasse_11">Unter den Buchen</string>
 	<string name="Objekt_11">Baustelle</string>
 	<string name="Bemerkung_11">Unklare Feuermeldung</string>	
-	<string name="Anrufer_11">ich meine, hier im Bereich der Baustelle im Wald einen Feuerschein zu sehen. Aber ich bin schon so kaputt.. jetzt da nochmal mit dem Fahrrad gucken zu fahren - das schaffe ich wirklich nicht</string>
+	<string name="Anrufer_11">tarkoitan, että täällä metsän työmaa-alueella näkyy tulen valoa. Olen jo niin väsynyt... en jaksa pyöräillä enää katsomaan tarkemmin</string>
 	<string name="ErsteLG_11">32</string>
 	<string name="ErsterLZ_11">3</string>
 	<string name="Zusatz_11">Baustelle</string>
@@ -178,7 +178,7 @@
 	<string name="Strasse_12">Philosophenweg</string>
 	<string name="Objekt_12">im Feld</string>
 	<string name="Bemerkung_12">Unklare Feuermeldung</string>	
-	<string name="Anrufer_12">qualmt es aus dem Feld an der Straße! Das sieht ganz merkwürdig aus irgendwie</string>
+	<string name="Anrufer_12">pelto savuaa! Se näyttää jotenkin oudolta</string>
 	<string name="ErsteLG_12">32</string>
 	<string name="ErsterLZ_12">3</string>
 	<string name="Zusatz_12">Feld</string>
@@ -192,7 +192,7 @@
 	<string name="Strasse_13">Unter den Buchen</string>
 	<string name="Objekt_13">Kuhwiese</string>
 	<string name="Bemerkung_13">Unklare Rauchentwicklung</string>	
-	<string name="Anrufer_13">kann ich eine Rauchentwicklung erkennen. Das kommt scheinbar aus Richtung der Kuhwiese</string>
+	<string name="Anrufer_13">haistan savua. Se tuntuu tulevan lehmäaitauksesta päin</string>
 	<string name="ErsteLG_13">32</string>
 	<string name="ErsterLZ_13">3</string>
 	<string name="Zusatz_13">Kuhwiese</string>
@@ -206,7 +206,7 @@
 	<string name="Strasse_14">Roermonder Bahn</string>
 	<string name="Objekt_14">Waldsee</string>
 	<string name="Bemerkung_14">Feuermeldung</string>	
-	<string name="Anrufer_14">sehe ich hinter dem Wald - dort wo der Waldsee liegt - einen Flackern am Horizont. Das könnte Feuerschein sein</string>
+	<string name="Anrufer_14">näen metsän takaa, missä se järvi on, jotain kummaa välkettä. Se voisi olla tulta</string>
 	<string name="ErsteLG_14">32</string>
 	<string name="ErsterLZ_14">3</string>
 	<string name="Zusatz_14">Waldsee</string>
@@ -220,7 +220,7 @@
 	<string name="Strasse_15">Klosterweg</string>
 	<string name="Objekt_15">im Wald</string>
 	<string name="Bemerkung_15">Rauchentwicklung</string>	
-	<string name="Anrufer_15">sehe ich eine Rauchsäule, wenn ich hinter den Büschen in den Wald schaue</string>
+	<string name="Anrufer_15">näen savupatsaan, kun katson metsään pensaiden taa</string>
 	<string name="ErsteLG_15">32</string>
 	<string name="ErsterLZ_15">3</string>
 	<string name="Zusatz_15">Waldstueck</string>
@@ -234,7 +234,7 @@
 	<string name="Strasse_16">Dahlener Straße</string>
 	<string name="Objekt_16">Bereich Scheune</string>
 	<string name="Bemerkung_16">Unklare Feuermeldung</string>	
-	<string name="Anrufer_16">ist im Bereich der Scheune eine leichte Rauchentwicklung zu erkennen</string>
+	<string name="Anrufer_16">ladon ympäristössä näkyy hieman savua</string>
 	<string name="ErsteLG_16">52</string>
 	<string name="ErsterLZ_16">5</string>
 	<string name="Zusatz_16">ScheuneBereich</string>
@@ -248,7 +248,7 @@
 	<string name="Strasse_17">Dahlener Straße</string>
 	<string name="Objekt_17">Bereich Scheune</string>
 	<string name="Bemerkung_17">Unklare Feuermeldung</string>	
-	<string name="Anrufer_17">ist im Bereich der Scheune eine leichte Rauchentwicklung zu erkennen</string>
+	<string name="Anrufer_17">ladon ympäristössä näkyy hieman savua</string>
 	<string name="ErsteLG_17">52</string>
 	<string name="ErsterLZ_17">5</string>
 	<string name="Zusatz_17">ScheuneBereich</string>
@@ -262,7 +262,7 @@
 	<string name="Strasse_18">Dülkener Straße 248</string>
 	<string name="Objekt_18">M&H Holzhandel GmbH & Co.KG</string>
 	<string name="Bemerkung_18">unklare Feuermeldung</string>	
-	<string name="Anrufer_18">qualmt es im Bereich der Holzhandlung. Nein - Ich kann nicht erkennen, was dort genau brennt, aber ich wollte sie trotzdem vorsichtshalber informieren</string>
+	<string name="Anrufer_18">puunjalostamon lähistöltä tulee savua. Ei, en osaa tarkalleen sanoa mikä siellä palaa, mutta halusin varalta ilmoittaa</string>
 	<string name="ErsteLG_18">52</string>
 	<string name="ErsterLZ_18">5</string>
 	<string name="Zusatz_18">Holzhandel</string>
@@ -276,7 +276,7 @@
 	<string name="Strasse_19">Am Telt</string>
 	<string name="Objekt_19">Neubau EFH</string>
 	<string name="Bemerkung_19">Feuer auf Baustelle</string>	
-	<string name="Anrufer_19">brennt es auf der Baustelle.</string>
+	<string name="Anrufer_19">työmaalla palaa.string>
 	<string name="ErsteLG_19">52</string>
 	<string name="ErsterLZ_19">5</string>
 	<string name="Zusatz_19">Baustelle</string>
@@ -290,7 +290,7 @@
 	<string name="Strasse_20">Schwaamer Straße</string>
 	<string name="Objekt_20">Kornfeld</string>
 	<string name="Bemerkung_20">Flächenbrand</string>	
-	<string name="Anrufer_20">hat das Kornfeld angefangen zu brennen. Bis jetzt ist es noch nicht viel, aber es breitet sich aus</string>
+	<string name="Anrufer_20">maissipelto syttyi palamaan. Se ei ole vielä kovin suuri, mutta se leviää</string>
 	<string name="ErsteLG_20">52</string>
 	<string name="ErsterLZ_20">5</string>
 	<string name="Zusatz_20">Kornfeld</string>
@@ -304,7 +304,7 @@
 	<string name="Strasse_21">Dülkener Straße</string>
 	<string name="Objekt_21">Höhe M&H Holzhandel</string>
 	<string name="Bemerkung_21">Feuermeldung im Park</string>	
-	<string name="Anrufer_21">erkenne ich aus dem vorderen Bereich des Parks eine leichte Rauchentwicklung. Der Park befindet sich gegenüber der M&H Holzhandlung.</string>
+	<string name="Anrufer_21">puiston etuosasta nousee pieni määrä savua. Se on M&H:ta vastapäätä.</string>
 	<string name="ErsteLG_21">52</string>
 	<string name="ErsterLZ_21">5</string>
 	<string name="Zusatz_21">ParkV</string>
@@ -318,7 +318,7 @@
 	<string name="Strasse_22">Dülkener Straße</string>
 	<string name="Objekt_22">Gegenüber Baustelle EFH</string>
 	<string name="Bemerkung_22">Feuermeldung im Park</string>	
-	<string name="Anrufer_22">ist aus dem hinteren Bereich des Parks eine deutliche Rauchentwicklung wahrnehmbar. Das ist der Park gegenüber von der Baustelle.</string>
+	<string name="Anrufer_22">puiston takaosasta nousee huomattava määrä savua. Puisto on työmaata vastapäätä.</string>
 	<string name="ErsteLG_22">52</string>
 	<string name="ErsterLZ_22">5</string>
 	<string name="Zusatz_22">ParkH</string>
@@ -332,7 +332,7 @@
 	<string name="Strasse_23">Dülkener Straße</string>
 	<string name="Objekt_23">Wald am Stadtpark</string>
 	<string name="Bemerkung_23">Rauchentwicklung aus Wald</string>	
-	<string name="Anrufer_23">qualmt es aus dem Waldstück am Stadtpark. Ich kann nicht genau erkennen, was dort brennt. Ich schaue von der M&H Holzhandlung aus auf den Wald und sehe es auf der anderen Straßenseite</string>
+	<string name="Anrufer_23">puiston metsäalueelta nousee savua. En näe tarkkaan, mitä siellä palaa. Metsä on puunjalostamoa vastapäätä.</string>
 	<string name="ErsteLG_23">52</string>
 	<string name="ErsterLZ_23">5</string>
 	<string name="Zusatz_23">ParkWald</string>
@@ -346,7 +346,7 @@
 	<string name="Strasse_24">Anton-Heinen-Straße 96</string>
 	<string name="Objekt_24">EFH</string>
 	<string name="Bemerkung_24">Unklare Feuermeldung Garten</string>	
-	<string name="Anrufer_24">ist aus den Gärten hinter dem großen Haus eine Rauchentwicklung zu erkennen. Ich kann leider nicht gucken gehen, da ich mir vor 2 Wochen das Bein gebrochen habe. Es kann natürlich sein, dass es wieder nur ein Nutzfeuer ist..</string>
+	<string name="Anrufer_24">Ison talon takaiselta puutarhalta nousee savua. En valitettavasti voi mennä katsomaan, koska mursin jalkani pari viikkoa sitten. Se voi kyllä olla taas nuotio...</string>
 	<string name="ErsteLG_24">52</string>
 	<string name="ErsterLZ_24">5</string>
 	<string name="Zusatz_24">Gaerten</string>
