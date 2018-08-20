@@ -1,0 +1,13 @@
+<strings>
+	<string name="anzahlFahrzeuge">10</string>
+	<string name="burningVehicle_0">mod:Prototypes/Objects/Burning Vehicles/Pugeot2.e4p</string>
+	<string name="burningVehicle_1">mod:Prototypes/Objects/Burning Vehicles/Touran.e4p</string>
+	<string name="burningVehicle_2">mod:Prototypes/Objects/Burning Vehicles/passat_var.e4p</string>
+	<string name="burningVehicle_3">mod:Prototypes/Objects/Burning Vehicles/vectra.e4p</string>
+	<string name="burningVehicle_4">mod:Prototypes/Objects/Burning Vehicles/Mercedes_bKLasse.e4p</string>
+	<string name="burningVehicle_5">mod:Prototypes/Objects/Burning Vehicles/citroen2.e4p</string>
+	<string name="burningVehicle_6">mod:Prototypes/Objects/Burning Vehicles/BMW3er09.e4p</string>
+	<string name="burningVehicle_7">mod:Prototypes/Objects/Burning Vehicles/a42.e4p</string>
+	<string name="burningVehicle_9">mod:Prototypes/Objects/Burning Vehicles/a4_2.e4p</string>
+	<string name="burningVehicle_8">mod:Prototypes/Objects/Burning Vehicles/Volvo850rot.e4p</string>
+</strings>

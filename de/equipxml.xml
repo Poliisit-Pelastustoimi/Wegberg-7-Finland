@@ -1,0 +1,85 @@
+<strings>
+
+	<string name="EquipmentName_0">Atemschutzgeräten</string>
+
+	<string name="EquipmentCommand_0">leererdummydenesnichtgibt</string>
+
+	<string name="EquipmentName_1">Kettensäge</string>
+
+	<string name="EquipmentCommand_1">HasSaege</string>
+
+	<string name="EquipmentName_2">Schläuchen</string>
+
+	<string name="EquipmentCommand_2">HasSchlauch</string>
+
+	<string name="EquipmentName_3">Feuerlöscher</string>
+
+	<string name="EquipmentCommand_3">HasLoescher</string>
+
+	<string name="EquipmentName_4">Feuerwehraxt</string>
+
+	<string name="EquipmentCommand_4">HasAxt</string>
+
+	<string name="EquipmentName_5">Rüstsatz</string>
+
+	<string name="EquipmentCommand_5">leererdummydenesnichtgibt</string>
+
+	<string name="EquipmentName_6">Verteiler</string>
+
+	<string name="EquipmentCommand_6">HasVerteiler</string>
+
+	<string name="EquipmentName_7">Zumischer</string>
+
+	<string name="EquipmentCommand_7">HasZumischer</string>
+
+	<string name="EquipmentName_8">Faltdreieck</string>
+
+	<string name="EquipmentCommand_8">HasDreieck</string>
+
+	<string name="EquipmentName_9">Lichtmast</string>
+
+	<string name="EquipmentCommand_9">HasLichtmast</string>
+
+	<string name="EquipmentName_10">Standrohr</string>
+
+	<string name="EquipmentCommand_10">HasStandrohr</string>
+
+	<string name="EquipmentName_11">Leitkegeln</string>
+
+	<string name="EquipmentCommand_11">DummyHasPylone5</string>
+
+	<string name="EquipmentName_12">Strahlrohr</string>
+
+	<string name="EquipmentCommand_12">HasStrahlrohr</string>
+
+	<string name="EquipmentName_13">Tauchpumpe</string>
+
+	<string name="EquipmentCommand_13">HasTauchPumpe</string>
+
+	<string name="EquipmentName_14">Schaumrohr</string>
+
+	<string name="EquipmentCommand_14">HasSchaumrohr</string>
+
+	<string name="EquipmentName_15">Blitzleuchten</string>
+
+	<string name="EquipmentCommand_15">HasBlitzer</string>
+
+	<string name="EquipmentName_16">Besen</string>
+
+	<string name="EquipmentCommand_16">HasBesen</string>
+
+	<string name="EquipmentName_17">Bindemittel</string>
+
+	<string name="EquipmentCommand_17">HasBmittel</string>
+
+	<string name="EquipmentName_18">Schnittschutz</string>
+
+	<string name="EquipmentCommand_18">leererdummydenesnichtgibt</string>
+
+	
+	<string name="EquipmentName_21">Halligan-Tool</string>
+
+	
+	<string name="EquipmentCommand_21">HasHalliganTool</string>
+
+<\strings>

@@ -1,0 +1,91 @@
+<strings>
+
+	<string name="AudioFZ_11/91/2">11_91_2</string>
+
+	<string name="ProtoFZ_11/91/2">mod:Prototypes/Vehicles/LZ2/wgb21gwg.e4p</string>
+
+	<string name="SirenFZ_11/91/2">mod:Audio/FX/Vehicles/FZG_11912/horn_leise.wav</string>
+
+	<string name="PersonalFZ_11/91/2">8</string>
+
+	<string name="CountEquip_11/91/2_Atemschutzgeräten">2</string>
+
+	<string name="PlaceEquip_11/91/2_Atemschutzgeräten">15</string>
+
+	<string name="CountEquip_11/91/2_Kettensäge">0</string>
+
+	<string name="PlaceEquip_11/91/2_Kettensäge">15</string>
+
+	<string name="CountEquip_11/91/2_Schläuchen">0</string>
+
+	<string name="PlaceEquip_11/91/2_Schläuchen">15</string>
+
+	<string name="CountEquip_11/91/2_Feuerlöscher">1</string>
+
+	<string name="PlaceEquip_11/91/2_Feuerlöscher">15</string>
+
+	<string name="CountEquip_11/91/2_Feuerwehraxt">0</string>
+
+	<string name="PlaceEquip_11/91/2_Feuerwehraxt">15</string>
+
+	<string name="CountEquip_11/91/2_Rüstsatz">0</string>
+
+	<string name="PlaceEquip_11/91/2_Rüstsatz">15</string>
+
+	<string name="CountEquip_11/91/2_Verteiler">0</string>
+
+	<string name="PlaceEquip_11/91/2_Verteiler">15</string>
+
+	<string name="CountEquip_11/91/2_Zumischer">0</string>
+
+	<string name="PlaceEquip_11/91/2_Zumischer">15</string>
+
+	<string name="CountEquip_11/91/2_Faltdreieck">1</string>
+
+	<string name="PlaceEquip_11/91/2_Faltdreieck">15</string>
+
+	<string name="CountEquip_11/91/2_Lichtmast">0</string>
+
+	<string name="PlaceEquip_11/91/2_Lichtmast">15</string>
+
+	<string name="CountEquip_11/91/2_Standrohr">0</string>
+
+	<string name="PlaceEquip_11/91/2_Standrohr">15</string>
+
+	<string name="CountEquip_11/91/2_Leitkegeln">1</string>
+
+	<string name="PlaceEquip_11/91/2_Leitkegeln">15</string>
+
+	<string name="CountEquip_11/91/2_Strahlrohr">0</string>
+
+	<string name="PlaceEquip_11/91/2_Strahlrohr">15</string>
+
+	<string name="CountEquip_11/91/2_Tauchpumpe">2</string>
+
+	<string name="PlaceEquip_11/91/2_Tauchpumpe">15</string>
+
+	<string name="CountEquip_11/91/2_Schaumrohr">0</string>
+
+	<string name="PlaceEquip_11/91/2_Schaumrohr">15</string>
+
+	<string name="CountEquip_11/91/2_Blitzleuchten">0</string>
+
+	<string name="PlaceEquip_11/91/2_Blitzleuchten">15</string>
+
+	<string name="CountEquip_11/91/2_Besen">2</string>
+
+	<string name="PlaceEquip_11/91/2_Besen">15</string>
+
+	<string name="CountEquip_11/91/2_Bindemittel">10</string>
+
+	<string name="PlaceEquip_11/91/2_Bindemittel">15</string>
+
+	<string name="CountEquip_11/91/2_Schnittschutz">0</string>
+
+	<string name="PlaceEquip_11/91/2_Schnittschutz">15</string>
+
+	<string name="CountEquip_11/91/2_Halligan-Tool">0</string>
+
+	<string name="PlaceEquip_11/91/2_Halligan-Tool">0</string>
+
+</strings>

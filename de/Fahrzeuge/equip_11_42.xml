@@ -1,0 +1,91 @@
+<strings>
+
+	<string name="AudioFZ_11/42/1">11_42</string>
+
+	<string name="ProtoFZ_11/42/1">mod:Prototypes/Vehicles/LZ1/WGB11LF10.e4p</string>
+
+	<string name="SirenFZ_11/42/1">mod:Audio/FX/Vehicles/FZG_11421/horn_leise.wav</string>
+
+	<string name="PersonalFZ_11/42/1">3</string>
+
+	<string name="CountEquip_11/42/1_Atemschutzgeräten">2</string>
+
+	<string name="PlaceEquip_11/42/1_Atemschutzgeräten">3</string>
+
+	<string name="CountEquip_11/42/1_Kettensäge">2</string>
+
+	<string name="PlaceEquip_11/42/1_Kettensäge">2</string>
+
+	<string name="CountEquip_11/42/1_Schläuchen">15</string>
+
+	<string name="PlaceEquip_11/42/1_Schläuchen">5</string>
+
+	<string name="CountEquip_11/42/1_Feuerlöscher">2</string>
+
+	<string name="PlaceEquip_11/42/1_Feuerlöscher">1</string>
+
+	<string name="CountEquip_11/42/1_Feuerwehraxt">2</string>
+
+	<string name="PlaceEquip_11/42/1_Feuerwehraxt">5</string>
+
+	<string name="CountEquip_11/42/1_Rüstsatz">0</string>
+
+	<string name="PlaceEquip_11/42/1_Rüstsatz">0</string>
+
+	<string name="CountEquip_11/42/1_Verteiler">4</string>
+
+	<string name="PlaceEquip_11/42/1_Verteiler">3</string>
+
+	<string name="CountEquip_11/42/1_Zumischer">1</string>
+
+	<string name="PlaceEquip_11/42/1_Zumischer">6</string>
+
+	<string name="CountEquip_11/42/1_Faltdreieck">1</string>
+
+	<string name="PlaceEquip_11/42/1_Faltdreieck">1</string>
+
+	<string name="CountEquip_11/42/1_Lichtmast">1</string>
+
+	<string name="PlaceEquip_11/42/1_Lichtmast">2</string>
+
+	<string name="CountEquip_11/42/1_Standrohr">1</string>
+
+	<string name="PlaceEquip_11/42/1_Standrohr">5</string>
+
+	<string name="CountEquip_11/42/1_Leitkegeln">1</string>
+
+	<string name="PlaceEquip_11/42/1_Leitkegeln">1</string>
+
+	<string name="CountEquip_11/42/1_Strahlrohr">5</string>
+
+	<string name="PlaceEquip_11/42/1_Strahlrohr">5</string>
+
+	<string name="CountEquip_11/42/1_Tauchpumpe">1</string>
+
+	<string name="PlaceEquip_11/42/1_Tauchpumpe">2</string>
+
+	<string name="CountEquip_11/42/1_Schaumrohr">1</string>
+
+	<string name="PlaceEquip_11/42/1_Schaumrohr">6</string>
+
+	<string name="CountEquip_11/42/1_Blitzleuchten">4</string>
+
+	<string name="PlaceEquip_11/42/1_Blitzleuchten">1</string>
+
+	<string name="CountEquip_11/42/1_Besen">3</string>
+
+	<string name="PlaceEquip_11/42/1_Besen">11</string>
+
+	<string name="CountEquip_11/42/1_Bindemittel">3</string>
+
+	<string name="PlaceEquip_11/42/1_Bindemittel">1</string>
+
+	<string name="CountEquip_11/42/1_Schnittschutz">2</string>
+
+	<string name="PlaceEquip_11/42/1_Schnittschutz">2</string>
+
+	<string name="CountEquip_11/42/1_Halligan-Tool">2</string>
+
+	<string name="PlaceEquip_11/42/1_Halligan-Tool">5</string>
+
+</strings>
