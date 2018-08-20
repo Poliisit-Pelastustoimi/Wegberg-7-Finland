@@ -1,49 +1,49 @@
 <strings>
-	<string name="Intro">Willkommen in Wegberg...</string>
+	<string name="Intro">Tervetuloa Wegbergiin...</string>
 
 	<!-- MAIN -->
-		<string name="ttp_mRoof_open">Dach ausblenden</string>
-		<string name="ttp_mRoof_close">Dach einblenden</string>
-		<string name="ttp_mRoof_nofloor">Etage ausblenden</string>
+		<string name="ttp_mRoof_open">Piilota katto</string>
+		<string name="ttp_mRoof_close">N‰yt‰ katto</string>
+		<string name="ttp_mRoof_nofloor">Piilota lattia</string>
 
 	<!-- FZGGUI -->
-		<string name="ttp_mParken">Zur¸ck zur Wache</string>
+		<string name="ttp_mParken">Palaa asemalle</string>
 		<!-- DMF -->
-			<string name="ttp_mDMF">DMF aufbauen</string>
+			<string name="ttp_mDMF">Rakenna teltta</string>
 			<string name="ttp_mDMFLinks">DMF Links aufbauen</string>
 			<string name="ttp_mDMFHinten">DMF Hinten aufbauen</string>
 			<string name="ttp_mDMFRechts">DMF Rechts aufbauen</string>
 
 
 		<!-- Konsole -->
-			<string name="ttp_mWarnblinker">Warnblinker ein/aus</string>
-			<string name="ttp_mBlaulicht">Blaulicht ein/aus</string>
-			<string name="ttp_mSoSi">Sondersignal ein/aus</string>
+			<string name="ttp_mWarnblinker">Varoitusvilkut p‰‰lle/pois</string>
+			<string name="ttp_mBlaulicht">Sinivilkut p‰‰lle/pois</string>
+			<string name="ttp_mSoSi">Sireeni p‰‰lle/pois</string>
 			<string name="ttp_mStadtLand">auf Stadt/Land umschalten</string>
 			<string name="ttp_mFMSHoerer">Funkverkehr ˆffnen/schlieﬂen</string>
-			<string name="ttp_mFrontblitzer">Frontblitzer ein/aus</string>
-			<string name="ttp_mHeck">Heckblaulicht ein/aus</string>
-			<string name="ttp_mHeckwarn">Heckwarneinrichtung ein/aus</string>
-			<string name="ttp_mUmfeld">Umfeldbeleuchtung ein/aus</string>
-			<string name="ttp_mFahrbeleuchtung">Fahrbeleuchtung ein/aus</string>
+			<string name="ttp_mFrontblitzer">Etuvilkut p‰‰lle/pois</string>
+			<string name="ttp_mHeck">Takavalot p‰‰lle/pois</string>
+			<string name="ttp_mHeckwarn">Liikenteenohjauspaneeli p‰‰lle/pois</string>
+			<string name="ttp_mUmfeld">Tyˆvalot p‰‰lle/pois</string>
+			<string name="ttp_mFahrbeleuchtung">Ajovalot p‰‰lle/pois</string>
 
 		<!-- FMSHoerer -->
-			<string name="ttp_mStatus0">Status 0 || Notruf</string>
-			<string name="ttp_mStatus1">Status 1 || Frei auf Funk</string>
-			<string name="ttp_mStatus2">Status 2 || Frei auf Standort</string>
-			<string name="ttp_mStatus3">Status 3 || Einsatz ¸bernommen</string>
-			<string name="ttp_mStatus4">Status 4 || Einsatzstelle an</string>
-			<string name="ttp_mStatus5">Status 5 || Sprechwunsch</string>
-			<string name="ttp_mStatus6">Status 6 || Nicht einsatzbereit</string>
-			<string name="ttp_mStatus7">Status 7 || Patient ¸bernommen</string>
-			<string name="ttp_mStatus8">Status 8 || Transportziel an</string>
+			<string name="ttp_mStatus0">Status 0 || H‰t‰kutsu</string>
+			<string name="ttp_mStatus1">Status 1 || Vapaa</string>
+			<string name="ttp_mStatus2">Status 2 || Asemalla</string>
+			<string name="ttp_mStatus3">Status 3 || Matkalla</string>
+			<string name="ttp_mStatus4">Status 4 || Kohteessa</string>
+			<string name="ttp_mStatus5">Status 5 || Kutsu</string>
+			<string name="ttp_mStatus6">Status 6 || Ei h‰lytett‰viss‰</string>
+			<string name="ttp_mStatus7">Status 7 || Kuljettaa</string>
+			<string name="ttp_mStatus8">Status 8 || Sairaalalla</string>
 			<string name="ttp_mStatus9">Status 9 || Anmeldung im Fremdkreis</string>
 
 		<!-- Lichtmast -->
-			<string name="ttp_mlimalinks">Lichtmast nach links drehen</string>
-			<string name="ttp_mlimarechts">Lichtmast nach rechts drehen</string>
-			<string name="ttp_mlimahoch">Lichtmast ausfahren</string>
-			<string name="ttp_mlimarunter">Lichtmast einfahren</string>
-			<string name="ttp_mlimaan">Licht ein-/ausschalten</string>
+			<string name="ttp_mlimalinks">K‰‰nn‰ mastoa vasemmalle</string>
+			<string name="ttp_mlimarechts">K‰‰nn‰ mastoa oikealle</string>
+			<string name="ttp_mlimahoch">Nosta masto</string>
+			<string name="ttp_mlimarunter">Laske masto</string>
+			<string name="ttp_mlimaan">Mastovalo p‰‰lle/pois</string>
 			
 </strings>
